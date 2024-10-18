@@ -1,0 +1,15 @@
+# Ignore build directories
+cmake-build-debug/
+
+# Ignore executables
+*.exe
+
+# Ignore text files used for development notes or logs
+snake.txt
+
+# Ignore CMake project files
+CMakeLists.txt.user
+
+# Ignore IDE configuration files
+.idea/
+
